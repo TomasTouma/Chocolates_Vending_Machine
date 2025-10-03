@@ -1,9 +1,18 @@
 # Chocolate Vending Machine System
 
+**GitHub Repository:** https://github.com/TomasTouma/Chocolates_Vending_Machine
+
 A Java Swing-based vending machine simulation that allows customers to purchase chocolate bars and provides administrative controls for inventory management.
 
 ![Java](https://img.shields.io/badge/Java-Swing-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-green)
+
+## 📁 Repository
+
+- **GitHub URL:** https://github.com/TomasTouma/Chocolates_Vending_Machine
+- **Clone Command:** `git clone https://github.com/TomasTouma/Chocolates_Vending_Machine`
+- **Main Branch:** `main`
+- **Project Structure:** Standard NetBeans Java Project
 
 ## 📋 Features
 
@@ -59,6 +68,12 @@ A Java Swing-based vending machine simulation that allows customers to purchase 
 ### Default Admin Credentials
 - **Username**: admin
 - **Password**: admin
+
+### GitHub Installation (Recommended)
+```bash
+git clone https://github.com/TomasTouma/Chocolate-Vending-Machine.git
+cd Chocolate-Vending-Machine
+# Then open in NetBeans as described below
 
 ## 🎯 Usage Guide
 
@@ -181,6 +196,11 @@ The project uses the following images (must be in same package):
 - Multiple user roles and permissions
 - Network connectivity for remote monitoring
 - Currency conversion support
+
+### Building from Source
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YourUsername/Chocolate-Vending-Machine.git
 
 ## 📞 Support
 
