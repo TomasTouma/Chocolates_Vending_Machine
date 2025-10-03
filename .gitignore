@@ -1,0 +1,30 @@
+# NetBeans Project Files
+/nbproject/private/
+/build/
+/dist/
+/.ant-targets-build.xml
+
+# Compiled Java classes
+*.class
+
+# IDE files
+*.iml
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Don't ignore these NetBeans files (keep them):
+# /nbproject/project.xml
+# /nbproject/build-impl.xml
+# /nbproject/genfiles.properties
+# build.xml
+# manifest.mf
